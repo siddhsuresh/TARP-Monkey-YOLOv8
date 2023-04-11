@@ -7,7 +7,7 @@ Run [YOLOv8](https://github.com/ultralytics/ultralytics/) detection with [Stream
 
 ## Shared on Streamlit Cloud
 
-<https://yolov8.streamlit.app/>
+<https://siddhsuresh-tarp-yolov8.streamlit.app/>
 
 ## Requeriments
 
