@@ -14,7 +14,13 @@ check_folders()
 
 if __name__ == '__main__':
     
-    st.title('YOLOv8 Streamlit App')
+    st.header('TARP Final Review')
+    st.title('Monkey Detection System: AI-Powered Object Detection System for Agricultural Protection ')
+    st.subheader('Presented by')
+    st.markdown('''
+    - Siddharth Suresh 20BPS1042
+    - Prantik Dhara 20BPS1083
+    ''')
 
     source = ("Image", "Video")
     source_index = st.sidebar.selectbox("Select Input type", range(
